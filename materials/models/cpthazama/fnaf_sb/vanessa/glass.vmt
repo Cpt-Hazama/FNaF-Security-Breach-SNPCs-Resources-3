@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+    "$basetexture"              "models/cpthazama/fnaf_sb/vanessa/glass"
+
+    "$nodecal"                  "1"
+    "$translucent"              "1"
+}

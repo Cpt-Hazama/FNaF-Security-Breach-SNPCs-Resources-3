@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+    "$basetexture"              "models/cpthazama/fnaf_sb/vanessa/hair"
+    "$bumpmap"                  "models/cpthazama/fnaf_sb/vanessa/hair_n"
+
+    "$model"                    "1"
+    "$nodecal"                  "1"
+    "$halflambert"              "1"
+    "$alphatest"                "1"
+
+    "$phong"                    "1"
+    "$phongboost"               "6"
+    "$phongfresnelranges"       "[0.05 0.5 1]"
+}

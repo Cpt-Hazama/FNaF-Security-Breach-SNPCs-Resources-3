@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+    "$basetexture"              "models/cpthazama/fnaf_sb/vanessa/eyebrow"
+    "$bumpmap"                  "models/cpthazama/fnaf_sb/vanessa/eyebrow_n"
+    "$phongexponenttexture"     "models/cpthazama/fnaf_sb/vanessa/eyebrow_exponent"
+    // "$color2"                   "[0 0 0]"
+
+    "$nodecal"                  "1"
+    "$translucent"              "1"
+
+    "$ambientocclusion"         "0.7"
+    "$phong"                    "1"
+    "$phongboost"               "19.986979"
+    "$phongfresnelranges"       "[0.87 0.9 1]"
+    "$phongalbedotint"          "1"
+}

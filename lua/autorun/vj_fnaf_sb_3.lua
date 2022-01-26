@@ -1,0 +1,1 @@
+print("Thank you for installing FNaF SB SNPCs Resource Pack #3")

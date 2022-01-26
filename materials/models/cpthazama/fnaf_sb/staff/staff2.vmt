@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+    "$basetexture"              "models/cpthazama/fnaf_sb/staff/staff"
+    "$bumpmap"                  "models/cpthazama/fnaf_sb/staff/staff_n"
+    "$phongexponenttexture"     "models/cpthazama/fnaf_sb/staff/staff_exponent"
+
+    "$nodecal"                  "1"
+    "$translucent"              "1"
+
+    "$ambientocclusion"         "0.7"
+    "$phong"                    "1"
+    "$phongboost"               "19.986979"
+    "$phongfresnelranges"       "[0.87 0.9 1]"
+    "$phongalbedotint"          "1"
+}

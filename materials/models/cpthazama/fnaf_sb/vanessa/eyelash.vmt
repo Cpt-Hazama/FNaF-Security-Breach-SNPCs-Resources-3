@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+    "$basetexture"              "models/cpthazama/fnaf_sb/vanessa/eyelash"
+    "$bumpmap"                  "models/cpthazama/fnaf_sb/vanessa/eyelash_n"
+    // "$phongexponenttexture"     "models/cpthazama/fnaf_sb/vanessa/body_exponent"
+
+    "$model"                    "1"
+    "$nodecal"                  "1"
+    "$halflambert"              "1"
+    "$translucent"              "1"
+
+    "$phong"                    "1"
+    "$phongboost"               "6"
+    "$phongfresnelranges"       "[0.05 0.5 1]"
+}
